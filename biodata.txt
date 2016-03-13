@@ -1,0 +1,100 @@
+<html>
+<head>
+<title>Belajar website</title>
+<style type="text/css">
+.judul{font-family: comic sans ms; font-size: 32; font-weight: bold}
+td{font-family: verdana; font-size: 11}
+a{font-family: comic sans ms; font-size: 16; font-weight: bold; textdecoration:
+none}
+a:hover{color: #ff6600; font-size: 18}
+h1{font-family: comic sans ms; font-size: 22; font-weight: bold}
+body{font-family: verdana; font-size: 12}
+</style>
+</head>
+<body>
+<table border="0" width="100%">
+<tr bgcolor="#0066CC">
+<td class="judul">SELAMAT DATANG DI WEBSITE SAYA</td></tr>
+</table>
+
+<table border="0">
+<tr bgcolor="#cccccc">
+<td><a href="http://localhost/ari1.html">Home</a></td>
+<td><a href="http://localhost/profilari.html">Profil</a></td>
+<td><a href="http://localhost/krs.html">KRS>>></a></td>
+<td width="90%"></td></tr>
+</table>
+<tr>
+<td colspan="2" align="right"><marquee scrollamount="4"><-------MASIH TAHAP BELAJAR-------->
+</marquee></td>
+<table width="520" align="center" cellpadding="1" cellspacing="1" bordercolor="#6666FF" bgcolor="violet">
+  <tr bgcolor="#ff6600">
+    <th colspan="3" height="65">
+    <p>DATA BIODATA SAYA</p>
+    </th>
+  </tr>
+  <tr>
+    <td width="153"><b>NAMA</b></td>
+    <td width="23"><div align="center" >:</div></td>
+    <td width="326"><b> Asep Toto Budiman</b></td>
+  </tr>
+  <tr>
+    <td><b>NIM</b></td>
+    <td><div align="center" >:</div></td>
+    <td><b> 14090063</td>
+  </tr>
+  <tr>
+    <td><b>ANGKATAN</b></td>
+    <td><div align="center" >:</div></td>
+    <td><b> 2014/B</td>
+  </tr>
+  <tr>
+    <td><b>TTL</b></td>
+    <td><div align="center" >:</div></td>
+    <td><b> TEGAL,04-07-1995</td>
+  </tr>
+  <tr>
+    <td><b>ALAMAT</b></td>
+    <td><div align="center" >:</div></td>
+    <td><b> Ds. dukuh daamu</td>
+  </tr>
+  <tr>
+    <td height="175"><b>RIWAYAT PENDIDIKAN </b></td>
+    <td><div align="center" >:</div></td>
+    <td><p> A.PENDIDIKAN FORMAL </p>
+      <table width="284" align="center" bordercolor="#FFFF00">
+      <tr>
+        <td > i  . SD/MI </td>
+        <td >:</td>
+        <td ><b> SDN 03 DUKUH DAMU</td>
+      </tr>
+      <tr>
+        <td > ii  . SMP/MTS </td>
+        <td >:</td>
+        <td ><b> SMPN 1 PANGKAH </td>
+      </tr>
+      <tr>
+        <td > iii . SMA/SMK </td>
+        <td >:</td>
+        <td ><b> SMK PERISTEK PANGKAH</td>
+      </tr>
+    </table>
+    <p > B. NON FORMAL : DEWAN AMBALAN, OSIS</p> 
+  </td>
+  </tr>
+  <tr>
+    <td><b>HOMEPAGE/BLOG</b></td>
+    <td><div align="center" >:</div></td>
+    <td> http://www.maskurkelana.blogspot.com</td>
+  </tr>
+  <tr>
+    <td><b>HOBBY</b></td> 
+    <td><div align="center" >:</div></td>
+  </tr>
+  <tr>
+</body>
+<body bgcolor=”#009966”>
+</html>
+</table>
+</body>
+</html>
